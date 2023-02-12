@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-01-27 Thu 08:46 -->
+<!-- 2022-01-27 Thu 08:28 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>162 Exam 1 Recommended Problems</title>
@@ -231,12 +231,12 @@ for the JavaScript code in this tag.
 <body>
 <div id="content">
 <h1 class="title">162 Exam 1 Recommended Problems</h1>
-<div id="outline-container-org5386e4c" class="outline-2">
-<h2 id="org5386e4c"><span class="section-number-2">1</span> Waves</h2>
+<div id="outline-container-orgd3b126b" class="outline-2">
+<h2 id="orgd3b126b"><span class="section-number-2">1</span> Waves</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org9fc68c3" class="outline-3">
-<h3 id="org9fc68c3"><span class="section-number-3">1.1</span> from Jorstad, PHYS 162 Workbook</h3>
+<div id="outline-container-org3d692dd" class="outline-3">
+<h3 id="org3d692dd"><span class="section-number-3">1.1</span> from Jorstad, PHYS 162 Workbook</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 p.24:9, p.27:R3, p29:R4,R4.5, p.30:R5, p.33-34: both examples, p.35: Example 2   
@@ -245,8 +245,8 @@ p.24:9, p.27:R3, p29:R4,R4.5, p.30:R5, p.33-34: both examples, p.35: Example 2
 </div>
 
 
-<div id="outline-container-org1f3b0b4" class="outline-3">
-<h3 id="org1f3b0b4"><span class="section-number-3">1.2</span> from OpenStax University Physics vol. 1, Ch. 16</h3>
+<div id="outline-container-org783f13c" class="outline-3">
+<h3 id="org783f13c"><span class="section-number-3">1.2</span> from OpenStax University Physics vol. 1, Ch. 16</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 16.41, 16.42, 16.47, 16.63, 16.71, 16.77, 16.93, 16.104, 16.139 
@@ -255,12 +255,12 @@ p.24:9, p.27:R3, p29:R4,R4.5, p.30:R5, p.33-34: both examples, p.35: Example 2
 </div>
 </div>
 
-<div id="outline-container-orgb750e8d" class="outline-2">
-<h2 id="orgb750e8d"><span class="section-number-2">2</span> Interference and Diffraction</h2>
+<div id="outline-container-orgdd4dd00" class="outline-2">
+<h2 id="orgdd4dd00"><span class="section-number-2">2</span> Interference and Diffraction</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-orge121672" class="outline-3">
-<h3 id="orge121672"><span class="section-number-3">2.1</span> from Jorstad, PHYS 162 Workbook</h3>
+<div id="outline-container-orgf36a196" class="outline-3">
+<h3 id="orgf36a196"><span class="section-number-3">2.1</span> from Jorstad, PHYS 162 Workbook</h3>
 <div class="outline-text-3" id="text-2-1">
 <p>
 p.39 and p.40: answer the questions asked, p.104 - 107: all questions, p.110 and p.111: all questions, 
@@ -268,8 +268,8 @@ p.39 and p.40: answer the questions asked, p.104 - 107: all questions, p.110 and
 </div>
 </div>
 
-<div id="outline-container-org89697d5" class="outline-3">
-<h3 id="org89697d5"><span class="section-number-3">2.2</span> from OpenStax University Physics vol. 3, Ch. 3</h3>
+<div id="outline-container-org394955e" class="outline-3">
+<h3 id="org394955e"><span class="section-number-3">2.2</span> from OpenStax University Physics vol. 3, Ch. 3</h3>
 <div class="outline-text-3" id="text-2-2">
 <p>
 3.19, 3.20, 3.24, 3.26, 3.32, 3.35, 3.37
@@ -277,8 +277,8 @@ p.39 and p.40: answer the questions asked, p.104 - 107: all questions, p.110 and
 </div>
 </div>
 
-<div id="outline-container-org8f774ad" class="outline-3">
-<h3 id="org8f774ad"><span class="section-number-3">2.3</span> from OpenStax University Physics vol. 3, Ch. 4</h3>
+<div id="outline-container-org38db982" class="outline-3">
+<h3 id="org38db982"><span class="section-number-3">2.3</span> from OpenStax University Physics vol. 3, Ch. 4</h3>
 <div class="outline-text-3" id="text-2-3">
 <p>
 4.18, 4.25, 4.28, 4.32, 4.35, 4.39, 4.46, 4.49, 4.52, 4.54, 4.59, 4.60, 4.66
@@ -287,12 +287,12 @@ p.39 and p.40: answer the questions asked, p.104 - 107: all questions, p.110 and
 </div>
 </div>
 
-<div id="outline-container-orgf54079b" class="outline-2">
-<h2 id="orgf54079b"><span class="section-number-2">3</span> Quantum Phenomena</h2>
+<div id="outline-container-orgea325ff" class="outline-2">
+<h2 id="orgea325ff"><span class="section-number-2">3</span> Quantum Phenomena</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org588ce27" class="outline-3">
-<h3 id="org588ce27"><span class="section-number-3">3.1</span> from OpenStax University Physics vol. 3, Ch. 6</h3>
+<div id="outline-container-org02263d2" class="outline-3">
+<h3 id="org02263d2"><span class="section-number-3">3.1</span> from OpenStax University Physics vol. 3, Ch. 6</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 56, 57, 59, 62, 65, 66, 71, 106, 108, 110, 111, (78, 80, 84, 88, 91, 96, 97, 100, 105)
@@ -301,12 +301,12 @@ p.39 and p.40: answer the questions asked, p.104 - 107: all questions, p.110 and
 </div>
 </div>
 
-<div id="outline-container-orgd91e978" class="outline-2">
-<h2 id="orgd91e978"><span class="section-number-2">4</span> Sound</h2>
+<div id="outline-container-org425d87d" class="outline-2">
+<h2 id="org425d87d"><span class="section-number-2">4</span> Sound</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-org5bd58be" class="outline-3">
-<h3 id="org5bd58be"><span class="section-number-3">4.1</span> from Jorstad, PHYS 162 Workbook</h3>
+<div id="outline-container-orgcf24789" class="outline-3">
+<h3 id="orgcf24789"><span class="section-number-3">4.1</span> from Jorstad, PHYS 162 Workbook</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 p31: Example, p.37: Example 5
@@ -314,8 +314,8 @@ p31: Example, p.37: Example 5
 </div>
 </div>
 
-<div id="outline-container-orgc6098a8" class="outline-3">
-<h3 id="orgc6098a8"><span class="section-number-3">4.2</span> from OpenStax University Physics vol. 1, Ch. 17}</h3>
+<div id="outline-container-org7b20902" class="outline-3">
+<h3 id="org7b20902"><span class="section-number-3">4.2</span> from OpenStax University Physics vol. 1, Ch. 17}</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>
 17.32, 17.57, 17.64, 17.82, 17.85, 17.100, 17.105, 17.119
@@ -324,12 +324,12 @@ p31: Example, p.37: Example 5
 </div>
 </div>
 
-<div id="outline-container-orge9e3de2" class="outline-2">
-<h2 id="orge9e3de2"><span class="section-number-2">5</span> Oscillators</h2>
+<div id="outline-container-org1eb3c03" class="outline-2">
+<h2 id="org1eb3c03"><span class="section-number-2">5</span> Oscillators</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-orgc025ccf" class="outline-3">
-<h3 id="orgc025ccf"><span class="section-number-3">5.1</span> from Jorstad, PHYS 162 Workbook</h3>
+<div id="outline-container-org1117d5b" class="outline-3">
+<h3 id="org1117d5b"><span class="section-number-3">5.1</span> from Jorstad, PHYS 162 Workbook</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 p.2-5: all questions; p.8-16: R2-R6, R9-R11, R15-R17(you do not need to turn in the plot for R17 but you should draw it).
@@ -341,8 +341,8 @@ Carry out the PhET exercises described in R1, the relevant vertical harmonic osc
 </div>
 </div>
 
-<div id="outline-container-org12cb25c" class="outline-3">
-<h3 id="org12cb25c"><span class="section-number-3">5.2</span> from OpenStax University Physics vol. 1, Ch. 15</h3>
+<div id="outline-container-orgfce1031" class="outline-3">
+<h3 id="orgfce1031"><span class="section-number-3">5.2</span> from OpenStax University Physics vol. 1, Ch. 15</h3>
 <div class="outline-text-3" id="text-5-2">
 <p>
 15.28, 15.34, 15.36, 15.40, 15.47, 15.55
@@ -351,12 +351,12 @@ Carry out the PhET exercises described in R1, the relevant vertical harmonic osc
 </div>
 </div>
 
-<div id="outline-container-orgb14e393" class="outline-2">
-<h2 id="orgb14e393"><span class="section-number-2">6</span> Polarization</h2>
+<div id="outline-container-org0055495" class="outline-2">
+<h2 id="org0055495"><span class="section-number-2">6</span> Polarization</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-orgc374cac" class="outline-3">
-<h3 id="orgc374cac"><span class="section-number-3">6.1</span> from Jorstad, PHYS 162 Workbook</h3>
+<div id="outline-container-orgab6efec" class="outline-3">
+<h3 id="orgab6efec"><span class="section-number-3">6.1</span> from Jorstad, PHYS 162 Workbook</h3>
 <div class="outline-text-3" id="text-6-1">
 <p>
 pp. 113 and 114 : All examples
@@ -368,8 +368,8 @@ recommended: p.129 (think about the connection to probability density)
 </div>
 </div>
 
-<div id="outline-container-org57d8189" class="outline-3">
-<h3 id="org57d8189"><span class="section-number-3">6.2</span> from OpenStax University Physics vol. 3, Ch. 1</h3>
+<div id="outline-container-orgb2a10bf" class="outline-3">
+<h3 id="orgb2a10bf"><span class="section-number-3">6.2</span> from OpenStax University Physics vol. 3, Ch. 1</h3>
 <div class="outline-text-3" id="text-6-2">
 <p>
 62-65, 69, 71-75
