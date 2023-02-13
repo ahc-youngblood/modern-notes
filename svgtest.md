@@ -1,12 +1,17 @@
+
+Embedded in note.
 <svg height="210" width="500">
 	<polygon points="50,20 175,100 160,200"
 	style="fill : sienna" />
 	</svg>
 
-
-
 <svg height="210" width="500">
 	<polygon points="50,20 175,100 160,200"
 	style="fill : aqua" />
 	</svg>
-	
+
+
+
+Include via link
+
+![image](./test_svg_triangle.svg)
